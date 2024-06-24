@@ -1,4 +1,4 @@
-# IPL-AuctionPrice-Analysis
+# IPL Auction Price Analysis
 Predicting IPL Cricket Players' Auction Price and analysing if they are over / under priced.
 
 Research Problem:
